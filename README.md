@@ -1,5 +1,5 @@
 # Header - README Template.
-![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
+![home view](9.4-images/home_view.png "home_view")
 
 ## Table of Contents
 I. [About the Project](#about_the_project)
